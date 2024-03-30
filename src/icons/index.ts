@@ -1,3 +1,4 @@
+export { default as SvgEth } from "./Eth";
 export { default as SvgBannerImage } from "./BannerImage";
 export { default as SvgImage1 } from "./Image1";
 export { default as SvgImage2 } from "./Image2";
